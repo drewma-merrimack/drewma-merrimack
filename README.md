@@ -14,7 +14,7 @@ Aspiring IT professional with a BS in Information Technology (UMass Lowell, 2010
 Fun fact: My son’s my biggest inspiration—best wingman ever!
 
 ## Latest Project
-- **SortedList Stack Adaptation (Project 05, v2.0)**: Maintained a Java program to read, sort, and store integers in a Stack using the Collections Framework, documented with Javadocs and UML. Check it out in my [CSC6301-Projects repo](https://github.com/drewma-merrimack/CSC6301-Projects/tree/main/Project05)!
+- **SortedList Stack Adaptation (Project 05, v2.0)**: Maintained a Java program to read, sort, and store integers in a Stack using the Collections Framework, documented with Javadocs and UML. Check it out in my [CSC6301-Projects repo](https://github.com/drewma-merrimack/CSC6301-Project/tree/main))!
 
 ## Community & Education
 - **Education**: MS, Computer Science (Expected Dec 2025, 3.8) – Merrimack College; BS, Information Technology (2010, 3.95) – UMass Lowell.
